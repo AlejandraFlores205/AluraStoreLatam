@@ -6,4 +6,5 @@ Contamos con cinco análisis
 - Calificación promedio de la tienda
 - Productos más y menos vendidos
 - Envío promedio por tienda
+
 Se realizarón gráficas visuales para observar mejor el comportamiento de los datos.
